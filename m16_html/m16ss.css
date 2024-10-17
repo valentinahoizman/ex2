@@ -1,0 +1,12 @@
+body     {background-image:url('m16bg.jpg');
+          background-color:#7c7d76}
+
+h1	 {font-weight:bold; 
+	  font-size:42px; 
+ 	  text-align: center}
+
+h2       {font-size:30px; 
+	  text-align:center; 
+	  text-wrap:normal; 
+	  word-wrap:break-word;}
+
